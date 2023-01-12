@@ -1,1 +1,3 @@
-# foundation-baz-corp
+# Org Foundation
+
+Terraform configurations for shared org resources.
